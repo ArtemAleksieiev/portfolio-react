@@ -2,7 +2,7 @@
   "name": "myportfoliosite",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://artemaleksieiev.github.io/portfolio-react",
+  "homepage": "https://ArtemAleksieiev.github.io/portfolio-react/",
   "dependencies": {
     "core-js": "^3.0.0",
     "react": "^16.8.6",
