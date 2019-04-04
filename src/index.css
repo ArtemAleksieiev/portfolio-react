@@ -4,7 +4,7 @@
   background-size: cover;
 }*/
 
-html {
+body {
   background: url(img/nyc.jpg) no-repeat center center fixed;
   background-size: cover;
   -webkit-background-size: cover;
